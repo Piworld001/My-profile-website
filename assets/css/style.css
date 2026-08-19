@@ -1,0 +1,44 @@
+header {
+    background-color: #0F172A;
+    padding: 20px;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #a4bbda;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+    
+}
+.intro {
+    font-size: 20px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+main {
+    margin: 20px;
+    padding: 20px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #2563EB;
+}
