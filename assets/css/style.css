@@ -64,6 +64,13 @@ nav a:hover {
     color: #2563EB;
 }
 
+/*===================
+Theme Button Toggle
+===================== */
+.dark{
+    background: #222;
+    color: white;
+}
 
 /* =========================
    MAIN CONTENT
